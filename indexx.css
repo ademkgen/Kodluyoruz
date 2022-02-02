@@ -1,0 +1,26 @@
+ul,ol{
+    text-align:center;
+    list-style-position:inside;    
+}
+
+.type {
+    background-color:coral;
+    display:inline-block;
+
+}
+
+.text {
+    display:inline-block;
+}
+.textcolor {
+    background-color:crimson;
+    display:inline-block;
+    text-decoration:underline;
+}
+p {
+    display:inline-block;
+}
+body {
+    height:100vh;
+    background-color:darkkhaki;
+}
